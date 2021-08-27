@@ -7,7 +7,7 @@
     <a href="mailto:abhilashmohapatra1234@gmail.com">
         <img align="left"src="https://img.shields.io/badge/-Abhilash-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhilashmohapatra1234@gmail.com" />
     </a>
-    <a href="https://www.instagram.com/_abhilashmohapatra_/">
+    <a href="https://www.facebook.com/profile.php?id=100009491078135">
         <img align = "left" alt="Abhilash's Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-squared&logo=Facebook&logoColor=white">
     </a>
     <a href="https://open.spotify.com/user/em3rzrvdz96pxlchrlhuh63j1?si=40ad34fee4dc4d40">
