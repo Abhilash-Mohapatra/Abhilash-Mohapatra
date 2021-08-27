@@ -1,9 +1,6 @@
 # Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <span>
-    <a href="https://www.linkedin.com/in/abhilash-m-81a731118/">
-        <img align = "left" alt="Abhilash's Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-squared&logo=linkedin&logoColor=white">
-    </a>
     <a href="mailto:abhilashmohapatra1234@gmail.com">
         <img align="left"src="https://img.shields.io/badge/-Abhilash-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhilashmohapatra1234@gmail.com" />
     </a>
