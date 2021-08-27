@@ -50,4 +50,4 @@ Hi, i'm <b>Abhilash Mohapatra</b>, a passionate self-taught web developer.  My p
 
 
 ## My Stats 📈
-![Abhilash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhilash-Mohapatra&theme=dark&show_icons=true)
+![Abhilash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhilash-Mohapatra&show_icons=true&theme=tokyonight)
