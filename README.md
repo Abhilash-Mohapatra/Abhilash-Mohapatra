@@ -7,9 +7,6 @@
     <a href="https://www.facebook.com/profile.php?id=100009491078135">
         <img align = "left" alt="Abhilash's Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-squared&logo=Facebook&logoColor=white">
     </a>
-    <a href="https://open.spotify.com/user/em3rzrvdz96pxlchrlhuh63j1?si=40ad34fee4dc4d40">
-        <img align="left" alt="Abhilash's Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=black" />
-    </a>
     <a href="https://www.instagram.com/_abhilashmohapatra_/">
         <img align="left" alt="Abhilash's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-squared&logo=instagram&logoColor=white"/>
     </a>
