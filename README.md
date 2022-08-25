@@ -20,7 +20,7 @@ Hi, i'm <b>Abhilash Mohapatra</b>, a passionate self-taught web developer.  My p
 
 - Student at silicon institute of technology
 - Interests : **Games 🎮, Movies 🎬, Drawing 🎨, Anime**
-- 📕Currently learning **MEAN stack**
+- 📕Currently learning **ASP.NET 6**
 - Have any queries? Feel free to contact me
 
 
